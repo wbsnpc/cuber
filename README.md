@@ -57,7 +57,7 @@
 
   ![replay](./screenshot/replay.gif)
 
-## [复原教程](https://github.com/wbsnpc/cuber/?mode=algs)
+## [复原教程](https://wbsnpc.github.io/cuber/?mode=algs)
 
 - 公式播放
 
@@ -71,7 +71,7 @@
 
   ![algs-step](./screenshot/algs-step.gif)
 
-## [动画制作](https://huazhechen.gitee.io/cuber?mode=director)
+## [动画制作](https://wbsnpc.github.io/cuber/?mode=director)
 
 - 场景布置与截图
 
