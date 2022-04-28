@@ -39,7 +39,7 @@
 
 - 触控操作
 
-  ![touch](https://github.com/wbsnpc/cuber/screenshot/touch.gif)
+  ![touch](./screenshot/touch.gif)
 
 - 撤销操作
 
