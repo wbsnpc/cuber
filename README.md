@@ -2,7 +2,7 @@
 
 - 优美而强大的网页魔方
 
-  <img width="120px" src="https://gitee.com/huazhechen/cuber/raw/master/resource/icon.png"  alt="icon"/>
+  <img width="120px" src="./screenshot/icon.png"  alt="icon"/>
 
 # 功能介绍
 
@@ -35,7 +35,7 @@
 </tr>
 </table>
 
-## [虚拟魔方](https://huazhechen.gitee.io/cuber)
+## - 虚拟魔方
 
 - 触控操作
 
