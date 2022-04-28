@@ -39,11 +39,11 @@
 
 - 触控操作
 
-  ![touch](https://gitee.com/huazhechen/cuber/raw/master/screenshot/touch.gif)
+  ![touch](https://github.com/wbsnpc/cuber/screenshot/touch.gif)
 
 - 撤销操作
 
-  ![undo](https://gitee.com/huazhechen/cuber/raw/master/screenshot/undo.gif)
+  ![undo](https://github.com/wbsnpc/cuber/screenshot/undo.gif)
 
 - 操作历史
 
